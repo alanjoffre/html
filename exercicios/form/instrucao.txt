@@ -1,0 +1,24 @@
+# acesse o diretório do projeto
+
+# Execute o seguinte comando (criar pacote json):
+npm init -y
+
+# Execute o seguinte comando (instalação express)
+npm i --save express@4.16.3 body-parser@1.18.2 -E
+
+# Execute o seguinte comando (instalação nodemon)
+npm install -g nodemon 
+npm install -g nodemon --save 
+npm install --save-dev nodemon 
+npm install -g nodemon@debug 
+npm install -g --force nodemon
+
+# Execute o seguinte comando (instalação yarn)
+npm install --global yarn
+
+# Execute o seguinte comando (adicionar a variavel global)
+yarn global add nodemon
+
+# Antes de inserir os dados no formuário, inicie o node server.js, com o seguinte comando no terminal: 
+node server.js
+
