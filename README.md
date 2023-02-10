@@ -1,2 +1,2 @@
 # HTML
- - Repositório com: aprendizado, exercícios e projetos.
+- Repositório com: artigos, aprendizados, exercícios e projetos.
